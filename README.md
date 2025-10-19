@@ -7,6 +7,14 @@ and optionally reflow paragraphs.
 ## Installation
 
 ```bash
+python -m venv kab
+```
+
+```bash
+source kab/bin/activate
+```
+
+```bash
 pip install kabyle-text-cleaner
 ```
 
