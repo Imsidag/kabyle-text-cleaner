@@ -11,13 +11,13 @@ pip install kabyle-text-cleaner
 ```
 
 ## CLI usage
-```bash
 
-# only check
+### only check
+```bash
 kabtxtcleaner text.txt
 ```
 
-# fix + reflow
+### fix + reflow
 ```bash
 kabtxtcleaner text.txt --fix -o clean.txt
 ```
