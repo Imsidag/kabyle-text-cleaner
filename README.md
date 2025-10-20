@@ -4,6 +4,8 @@ Command-line utility and Python library to normalise Kabyle text
 (non-standard Greek/Latin look-alikes → proper Latin-derived letters)
 and optionally reflow paragraphs.
 
+Blogpost : https://kabyleinfloss.blogspot.com/2025/10/kabyle-text-cleaner.html
+
 ## Installation
 
 ```bash
