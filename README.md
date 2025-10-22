@@ -1,5 +1,7 @@
 # kabyle text cleaner
 
+[![PyPI version](https://badge.fury.io/py/kabyle-text-cleaner.svg)](https://badge.fury.io/py/kabyle-text-cleaner)
+
 Command-line utility and Python library to normalise Kabyle text
 (non-standard Greek/Latin look-alikes → proper Latin-derived letters)
 and optionally reflow paragraphs.
